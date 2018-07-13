@@ -1,0 +1,5 @@
+cc_binary {
+    name: "usb-trigger",
+    srcs: ["src/usb-trigger.c"],
+    stl: "none",
+}
